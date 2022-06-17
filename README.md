@@ -49,6 +49,7 @@ Kotlin:
   
   ## Herança
     usar open fun para habilitar a herança
+    qdo tiver necessidade de um comportamento muito específico, que NÃO sirva para todos, criar uma nova classe.Ex: funcionárioAdmin tem autenticação que não é necessária para funcionário comum
   
   
   ### Rest
